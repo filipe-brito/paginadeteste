@@ -1,0 +1,27 @@
+.about{
+    background-image: url('../imagens/fundo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 42rem;
+    text-align: center;
+    padding: 35px;
+    color: #333333;
+}
+
+h1{
+    display: block;
+    font-size: 35px;
+}
+h1 span{
+    font-weight: bold;
+}
+h2{
+    display: block;
+    font-size: 18px;
+    margin: 35px 0 35px;
+    line-height: 2;
+}
+h2 span{
+    font-weight: bold;
+}
